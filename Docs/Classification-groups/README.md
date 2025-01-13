@@ -1,7 +1,9 @@
 
 ***
 
+<!-- KEEP THIS IN FOR LEGACY PURPOSES
 **This file has been moved from the [:octocat: core Bliss Browser documentation repository](https://github.com/seanpm2001/Bliss_Browser_Docs/) starting with V3. It is now included in the [:octocat: core Bliss Browser languages documentation repository](https://github.com/seanpm2001/Bliss_Browser_Languages_Docs/). This message will be commented out, starting with V4**
+!-->
 
 # Bliss Browser language classification
 
@@ -541,6 +543,6 @@ None
 
 # File info
 
-**File version:** `3 (2025, Monday, January 13th at 03:53 pm PST)`
+**File version:** `4 (2025, Monday, January 13th at 03:57 pm PST)`
 
 ***
