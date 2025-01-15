@@ -15,10 +15,10 @@ For core/other documentation, [:octocat: `Visit the core Bliss Browser documenta
 
 ***
 
-**Categories:** [:octocat: `Documentation`](https://github.com/seanpm2001/Documentation/) [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/) [:octocat: `Web browsers`](https://github.com/seanpm2001/Seanpm2001-Browsers/)
+**Categories:** [:octocat: `Documentation`](https://github.com/seanpm2001/Documentation/) [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/) [:octocat: `Web browsers`](https://github.com/seanpm2001/Seanpm2001-Browsers/) [:octocat: `Meadows`](https://github.com/seanpm2001/QMeadows/)
 
 ***
 
-**File version:** `1 (2025, Monday, January 13th at 08:30 pm PST)`
+**File version:** `2 (2025, Wednesday, January 15th at 03:34 pm PST)`
 
 ***
