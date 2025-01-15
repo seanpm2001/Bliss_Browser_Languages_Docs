@@ -1,6 +1,12 @@
 
 ***
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this entire article</b></p></summary>
+
+---
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the upper-title section</b></p></summary>
+
 <!-- KEEP THIS IN FOR LEGACY PURPOSES
 **This file has been moved from the [:octocat: core Bliss Browser documentation repository](https://github.com/seanpm2001/Bliss_Browser_Docs/) starting with V3. It is now included in the [:octocat: core Bliss Browser languages documentation repository](https://github.com/seanpm2001/Bliss_Browser_Languages_Docs/). This message will be commented out, starting with V4**
 !-->
@@ -15,7 +21,34 @@ Sourced from:
 
 **Note:** Lists are sorted A-Z
 
+</details>
+
+***
+
+# Index
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the index section)</b></p></summary>
+
+- [`Title`](#Bliss-Browser-language-classification)
+- [`Index`](#Index)
+- [`Classical browser languages`](#Classical-browser-languages)
+- [`Neo-classical browser languages`](#Neo-classical-browser-languages)
+- [`Post-classical browser languages`](#Post-classical-browser-languages)
+- [`Excluded languages`](#Excluded-languages)
+- [`Undecided languages`](#Undecided-languages)
+- [`See also`](#See-also)
+- [`File info`](#File-info)
+- [`File history`](#File-history)
+- [`Footer`](#Footer)
+- [`End of File (EOF)`](#EOF)
+
+</details>
+
+***
+
 ## Classical browser languages
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the Classical browser languages section)</b></p></summary>
 
 The most common languages, the ones that make up the heart of the Internet, and other web browsers.
 
@@ -32,7 +65,13 @@ This includes:
 - [:octocat: `WebVTT`](https://github.com/seanpm2001/Bliss_Browser_WebVTT/)
 - [:octocat: `XML`](https://github.com/seanpm2001/Bliss_Browser_XML/)
 
+</details> <!-- End of Classical languages section !-->
+
+***
+
 ## Neo-classical browser languages
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the Neo-Classical browser languages section)</b></p></summary>
 
 Other languages that work on the Internet, for the server side, and sometimes, the front end.
 
@@ -175,7 +214,13 @@ This includes:
 - [:octocat: `XUL`](https://github.com/seanpm2001/Bliss_Browser_XUL/)
 - [:octocat: `YAML`](https://github.com/seanpm2001/Bliss_Browser_YAML/)
 
+</details> <!-- End of Neo-Classical languages section !-->
+
+***
+
 ## Post-classical browser languages
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the Post-Classical browser languages section)</b></p></summary>
 
 For other web-based languages that typically don't have use in a web browser, but are Internet-capable.
 
@@ -186,6 +231,7 @@ This includes:
 - [:octocat: `Apache Avro`](https://github.com/seanpm2001/Bliss_Browser_ApacheAvro/)
 - [:octocat: `Beef`](https://github.com/seanpm2001/Bliss_Browser_Beef/)
 - [:octocat: `BennuGD`](https://github.com/seanpm2001/Bliss_Browser_BennuGD/)
+- BibTeX (no repository for this language has been created yet)
 - [:octocat: `Bison`](https://github.com/seanpm2001/Bliss_Browser_Bison/)
 - [:octocat: `BlockQL`](https://github.com/seanpm2001/Bliss_Browser_BlockQL/)
 - [:octocat: `BQN`](https://github.com/seanpm2001/Bliss_Browser_BQN/)
@@ -205,6 +251,7 @@ This includes:
 - [:octocat: `Curry`](https://github.com/seanpm2001/Bliss_Browser_Curry/)
 - [:octocat: `Cypher`](https://github.com/seanpm2001/Bliss_Browser_Cypher/)
 - [:octocat: `Dart`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
+- Docbook (no repository for this language has been created yet)
 - [:octocat: `DataWeave`](https://github.com/seanpm2001/Bliss_Browser_DataWeave/)
 - [:octocat: `DogeScript`](https://github.com/seanpm2001/Bliss_Browser_DogeScript/)
 - [:octocat: `Earthly`](https://github.com/seanpm2001/Bliss_Browser_Earthly/)
@@ -284,6 +331,7 @@ This includes:
 - [:octocat: `Polar`](https://github.com/seanpm2001/Bliss_Browser_Polar/)
 - [:octocat: `PowerBuilder`](https://github.com/seanpm2001/Bliss_Browser_PowerBuilder/)
 - [:octocat: `ProtoBuf`](https://github.com/seanpm2001/Bliss_Browser_ProtoBuf/)
+- Puppet (no repository for this language has been created yet)
 - [:octocat: `Reason`](https://github.com/seanpm2001/Bliss_Browser_Reason/)
 - [:octocat: `RBS`](https://github.com/seanpm2001/Bliss_Browser_RBS/)
 - [:octocat: `REALBasic`](https://github.com/seanpm2001/Bliss_Browser_REALBasic/)
@@ -303,6 +351,7 @@ This includes:
 - [:octocat: `Sway`](https://github.com/seanpm2001/Bliss_Browser_Sway/)
 - [:octocat: `Talon`](https://github.com/seanpm2001/Bliss_Browser_Talon/)
 - [:octocat: `Tampio`](https://github.com/seanpm2001/Bliss_Browser_Tampio/)
+- TeX (no repository for this language has been created yet)
 - [:octocat: `Thrift`](https://github.com/seanpm2001/Bliss_Browser_Thrift/)
 - [:octocat: `Triton`](https://github.com/seanpm2001/Bliss_Browser_Triton/)
 - [:octocat: `TSV (Tab Separated Values`](https://github.com/seanpm2001/Bliss_Browser_TSV-Tab-Separated-Values/)
@@ -328,7 +377,13 @@ This includes:
 - [:octocat: `Zephir`](https://github.com/seanpm2001/Bliss_Browser_Zephir/)
 - [:octocat: `Zimpl`](https://github.com/seanpm2001/Bliss_Browser_Zimpl/)
 
+</details> <!-- End of Post-Classical languages section !-->
+
+***
+
 ## Excluded languages
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the Excluded languages section)</b></p></summary>
 
 Some examples of languages that are not included:
 
@@ -436,6 +491,7 @@ Some examples of languages that are not included:
 - Mojo
 - MoonScript
 - Motoko
+- NASL
 - Nemerle
 - nesC
 - Nim
@@ -451,12 +507,14 @@ Some examples of languages that are not included:
 - Objective-J++
 - OCAML
 - Octave
+- Ooc
 - OpenQASM
 - OpenSCAD
 - Org
 - Oxygene
 - Pascal
 - Perl
+- Perl6
 - Piglatin
 - PostScript
 - PowerShell
@@ -480,6 +538,7 @@ Some examples of languages that are not included:
 - Sage
 - Scala
 - Scheme
+- SciLab
 - Self
 - Shell
 - Smali
@@ -498,8 +557,11 @@ Some examples of languages that are not included:
 - Verilog
 - Verilog AMS
 - VHDL
+- WaveFront Material
+- WaveFront Object
 - WDL
 - Windows Registry Entries
+- Wren
 - XBase
 - XQuery
 - YARA
@@ -509,16 +571,25 @@ Some examples of languages that are not included:
 - Zig
 - ZIL
 
+</details> <!-- End of Excluded languages section !-->
+
+***
+
 ## Undecided languages
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the Undecided languages section)</b></p></summary>
 
 The following languages are currently being decided on:
 
 - desktop
 - Diff
+- Rich Text Format
+- Saltstack
 - STAR
 - Starlark
+- Unity 3DAsset
 
-<!--
+<!-- KEEP THIS IN FOR LEGACY PURPOSES
 To work with (0)
 
 As of 2025, January 13th
@@ -533,16 +604,220 @@ None
 
 !-->
 
+</details> <!-- End of Undecided languages section !-->
+
 ***
 
 ## See also
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section (the See also section)</b></p></summary>
+
 - [:octocat: `SNU 2D ProgrammingTools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/) - Another IDE project for a different project that aims to cover ALL programming languages, and is accessible via Bliss Browser.
+
+</details> <!-- End of See also section !-->
 
 ***
 
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
+
 # File info
 
-**File version:** `4 (2025, Monday, January 13th at 03:57 pm PST)`
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary> <!-- This section should be updated daily !-->
+
+<table>
+  <tr>
+    <td>
+
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `5 (2025, Tuesday, January 14th at 04:55 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `824` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `04,478` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `35,068` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `32,099` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `35,073` <!-- TODO: This line should be updated daily !-->
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+    </td>
+  </tr>
+</table>
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details> <!-- End of file info section !-->
+
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
+
+***
+
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
+
+# File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+***
+
+## Version 1 (2025, Saturday, January 11th at 09:33 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 1</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the `Title` section
+- [x] Added the `Classical browser languages` section
+- [x] Added the `Neo-classical browser languages` section
+- [x] Added the `Post-classical browser languages` section
+- [x] Added the `File info` section
+- [ ] No other changes in version 1
+
+</details> <!-- End of file history entry: V1 !-->
+
+---
+
+## Version 2 (2025, Sunday, January 12th at 04:05 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Title` section
+- [x] Updated the `Classical browser languages` section
+- [x] Updated the `Neo-classical browser languages` section
+- [x] Updated the `Post-classical browser languages` section
+- [x] Added the `See also` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 2
+
+</details> <!-- End of file history entry: V2 !-->
+
+---
+
+## Version 3 (2025, Monday, January 13th at 03:53 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 3</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Title` section
+- - [x] Added a notice about the file moving
+- [x] Updated the `Classical browser languages` section
+- [x] Updated the `Neo-classical browser languages` section
+- [x] Updated the `Post-classical browser languages` section
+- [x] Added the `Excluded languages` section
+- [x] Added the `Undecided languages` section
+- [x] Updated the `See also` section
+- - [x] Gave the section H2 heading rights
+- [x] Updated the `File info` section
+- [ ] No other changes in version 3
+
+</details> <!-- End of file history entry: V3 !-->
+
+---
+
+## Version 4 (2025, Monday, January 13th at 03:57 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 4</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Title` section
+- - [x] Commented out the notice about the file moving
+- [x] Updated the `File info` section
+- [ ] No other changes in version 4
+
+</details> <!-- End of file history entry: V4 !-->
+
+---
+
+## Version 5 (2025, Tuasday, January 14th at 04:55 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 5</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Title` section
+- - [x] Added an index
+- [x] Updated the `Neo-classical browser languages` section
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `Excluded languages` section
+- [x] Updated the `Undecided languages` section
+- [x] Updated the `See also` section
+- - [x] Gave the section H2 heading rights
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added entries for versions 1 to 5
+- [x] Added the `Footer` section
+- [x] Made all sections collapse-able
+- [ ] No other changes in version 5
+
+</details> <!-- End of file history entry: V5 !-->
+
+***
+
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+
+---
+
+_End of file history section._
+
+</details> <!-- End of file history section !-->
+
+***
+
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
+
+# [Footer 🦶️](#Footer-)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer</b></p></summary>
+
+**You have reached the end of this file.**
+
+<table>
+  <tr>
+    <td>
+
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
+
+    </td>
+  </tr>
+</table>
+
+###### [EOF](#EOF)
+
+<!-- EOF:
+End
+Of
+File
+!-->
+
+</details> <!-- End of footer !-->
+
+_End of footer._
+
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
+
+---
+
+_End of article._
+
+</details> <!-- End of article !-->
 
 ***
