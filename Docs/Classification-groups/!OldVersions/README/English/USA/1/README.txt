@@ -414,23 +414,29 @@ Some examples of languages that are not included:
 - C
 - C#
 - C++
+- Caddyfile
 - Cadence
 - CDL
 - COBOL
+- COLLADA
 - Common Lisp
 - Component Pascal
 - Creole
+- Crontab
 - CSound
 - CSound Document
 - CSound Score
 - CUDA
+- Cycript
 - Cython
 - D
 - Dafny
 - Darcs Patch
 - Dhall
+- dircolors
 - Dockerfile
 - DTrace
+- Dune
 - Dylan
 - E
 - Eiffel
@@ -441,10 +447,12 @@ Some examples of languages that are not included:
 - Euphoria
 - F#
 - Factor
+- Filebench WML
 - Fish
 - Forth
 - Fortran
 - FreeBASIC
+- Futhark
 - Game Maker Language
 - G-Code
 - GDScript
@@ -458,6 +466,7 @@ Some examples of languages that are not included:
 - Groovy
 - GSC
 - Haskell
+- Hollywood
 - HolyC
 - Idris
 - Inno Setup
@@ -485,17 +494,28 @@ Some examples of languages that are not included:
 - mcFunction
 - Mercury
 - Meson
+- MiniD
 - Modelica
 - Modula-2
 - Modula-3
 - Mojo
+- MooCode
 - MoonScript
 - Motoko
+- MUF
+- mupad
+- Muse
+- Myghty
+- Nasal
 - NASL
 - Nemerle
+- NEON
 - nesC
 - Nim
 - Nix
+- NL
+- NMODL
+- Noir
 - NSIS
 - Nu
 - Oberon
@@ -518,6 +538,7 @@ Some examples of languages that are not included:
 - Piglatin
 - PostScript
 - PowerShell
+- Prisma
 - Proguard
 - Prolog
 - PureBASIC
@@ -525,6 +546,7 @@ Some examples of languages that are not included:
 - Q
 - Q#
 - QML
+- Quantum Computation Language
 - R
 - Racket
 - Raku
@@ -532,8 +554,10 @@ Some examples of languages that are not included:
 - REBOL
 - Red
 - Ren'py
+- Riot
 - RouterOS Script
 - RPGLE
+- RPM Spec
 - Rust
 - Sage
 - Scala
@@ -629,12 +653,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `5 (2025, Tuesday, January 14th at 04:55 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `824` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `04,478` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `35,068` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `32,099` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `35,073` <!-- TODO: This line should be updated daily !-->
+- **File version:** `6 (2025, Wednesday, January 15th at 03:26 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `866` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `04,591` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `35,867` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `32,755` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `35,872` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -740,7 +764,7 @@ None
 
 ---
 
-## Version 5 (2025, Tuasday, January 14th at 04:55 pm PST)
+## Version 5 (2025, Tuesday, January 14th at 04:55 pm PST)
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 5</b></p></summary>
 
@@ -764,6 +788,24 @@ None
 - [ ] No other changes in version 5
 
 </details> <!-- End of file history entry: V5 !-->
+
+---
+
+## Version 6 (2025, Wednesday, January 15th at 03:26 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 6</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Excluded languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 6
+- [ ] No other changes in version 6
+
+</details> <!-- End of file history entry: V6 !-->
 
 ***
 
