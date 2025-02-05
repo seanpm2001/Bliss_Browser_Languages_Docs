@@ -119,6 +119,8 @@ This includes:
 - [:octocat: `Generalized Markup Language (GML)`](https://github.com/seanpm2001/Bliss_Browser_Generalized-Markup-Language-GML/)
 - [:octocat: `Gherkin`](https://github.com/seanpm2001/Bliss_Browser_Gherkin/)
 - [:octocat: `Gleam`](https://github.com/seanpm2001/Bliss_Browser_Gleam/)
+- [:octocat: `Glimmer JS`](https://github.com/seanpm2001/Bliss_Browser_Glimmer-JS/)
+- [:octocat: `Glimmer TS`](https://github.com/seanpm2001/Bliss_Browser_Glimmer-TS/)
 - [:octocat: `Google Apps Script`](https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script/)
 - [:octocat: `GPS Exchange Format`](https://github.com/seanpm2001/Bliss_Browser_GPS-Exchange-Format/)
 - [:octocat: `Hack`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
@@ -237,6 +239,7 @@ This includes:
 - [:octocat: `BQN`](https://github.com/seanpm2001/Bliss_Browser_BQN/)
 - [:octocat: `Bro`](https://github.com/seanpm2001/Bliss_Browser_Bro/)
 - [:octocat: `Cairo`](https://github.com/seanpm2001/Bliss_Browser_Cairo/)
+- [:octocat: `CameLIGO`](https://github.com/seanpm2001/Bliss_Browser_CameLIGO/)
 - [:octocat: `CAP`](https://github.com/seanpm2001/Bliss_Browser_CAP/)
 - [:octocat: `Catrobat`](https://github.com/seanpm2001/Bliss_Browser_Catrobat/)
 - [:octocat: `CDS`](https://github.com/seanpm2001/Bliss_Browser_CDS/)
@@ -286,6 +289,7 @@ This includes:
 - [:octocat: `Jison Lex`](https://github.com/seanpm2001/Bliss_Browser_Jison-Lex/)
 - [:octocat: `Jolie`](https://github.com/seanpm2001/Bliss_Browser_Jolie/)
 - [:octocat: `JSound`](https://github.com/seanpm2001/Bliss_Browser_JSound/)
+- [:octocat: `Jule`](https://github.com/seanpm2001/Bliss_Browser_Jule/)
 - [:octocat: `Just`](https://github.com/seanpm2001/Bliss_Browser_Just/)
 - [:octocat: `KakouneScript`](https://github.com/seanpm2001/Bliss_Browser_KakouneScript/)
 - [:octocat: `KerboScript`](https://github.com/seanpm2001/Bliss_Browser_KerboScript/)
@@ -330,8 +334,10 @@ This includes:
 - [:octocat: `Pep8`](https://github.com/seanpm2001/Bliss_Browser_Pep8/)
 - [:octocat: `Polar`](https://github.com/seanpm2001/Bliss_Browser_Polar/)
 - [:octocat: `PowerBuilder`](https://github.com/seanpm2001/Bliss_Browser_PowerBuilder/)
+- [:octocat: `Promela`](https://github.com/seanpm2001/Bliss_Browser_Promela/)
 - [:octocat: `ProtoBuf`](https://github.com/seanpm2001/Bliss_Browser_ProtoBuf/)
 - Puppet (no repository for this language has been created yet)
+- [:octocat: `Pyret`](https://github.com/seanpm2001/Bliss_Browser_Pyret/)
 - [:octocat: `Reason`](https://github.com/seanpm2001/Bliss_Browser_Reason/)
 - [:octocat: `RBS`](https://github.com/seanpm2001/Bliss_Browser_RBS/)
 - [:octocat: `REALBasic`](https://github.com/seanpm2001/Bliss_Browser_REALBasic/)
@@ -341,6 +347,7 @@ This includes:
 - [:octocat: `Roc`](https://github.com/seanpm2001/Bliss_Browser_Roc/)
 - [:octocat: `Roff`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
 - [:octocat: `Sawzall`](https://github.com/seanpm2001/Bliss_Browser_Sawzall/)
+- [:octocat: `Shen`](https://github.com/seanpm2001/Bliss_Browser_Shen/)
 - [:octocat: `Simple File Verification`](https://github.com/seanpm2001/Bliss_Browser_Simple-File-Verification/)
 - [:octocat: `Singularity`](https://github.com/seanpm2001/Bliss_Browser_Singularity/)
 - [:octocat: `Smithy`](https://github.com/seanpm2001/Bliss_Browser_Smithy/)
@@ -394,12 +401,17 @@ Some examples of languages that are not included:
 - 4D
 - ABAP
 - Ada
+- Adobe Font Metrics
 - AIDL
 - ALGOL
 - Alloy
+- Alpine ABuild
+- Altium-Designer
 - AMPL
+- Ant Build System
 - AppleScript
 - Assembly
+- ATS
 - AutoIt
 - B4X
 - Ballerina
@@ -459,6 +471,7 @@ Some examples of languages that are not included:
 - Genie
 - GetText Catalog
 - Gleam
+- Glyph
 - Go!
 - Google Carbon
 - Google Go
@@ -653,12 +666,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `6 (2025, Wednesday, January 15th at 03:26 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `866` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `04,591` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `35,867` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `32,755` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `35,872` <!-- TODO: This line should be updated daily !-->
+- **File version:** `7 (2025, Tuesday, February 4th at 06:16 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `899` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `04,771` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `37,173` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `33,914` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `37,178` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -806,6 +819,26 @@ None
 - [ ] No other changes in version 6
 
 </details> <!-- End of file history entry: V6 !-->
+
+---
+
+## Version 7 (2025, Tuesday, February 4th at 06:16 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 7</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Neo-classical browser languages` section
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `Excluded languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 7
+- [ ] No other changes in version 7
+
+</details> <!-- End of file history entry: V7 !-->
 
 ***
 
