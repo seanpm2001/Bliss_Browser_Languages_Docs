@@ -238,6 +238,7 @@ This includes:
 - [:octocat: `BlockQL`](https://github.com/seanpm2001/Bliss_Browser_BlockQL/)
 - [:octocat: `BQN`](https://github.com/seanpm2001/Bliss_Browser_BQN/)
 - [:octocat: `Bro`](https://github.com/seanpm2001/Bliss_Browser_Bro/)
+- [:octocat: `BrowsersList`](https://github.com/seanpm2001/Bliss_Browser_BrowsersList/)
 - [:octocat: `Cairo`](https://github.com/seanpm2001/Bliss_Browser_Cairo/)
 - [:octocat: `CameLIGO`](https://github.com/seanpm2001/Bliss_Browser_CameLIGO/)
 - [:octocat: `CAP`](https://github.com/seanpm2001/Bliss_Browser_CAP/)
@@ -364,6 +365,7 @@ This includes:
 - [:octocat: `TSV (Tab Separated Values`](https://github.com/seanpm2001/Bliss_Browser_TSV-Tab-Separated-Values/)
 - [:octocat: `Turing`](https://github.com/seanpm2001/Bliss_Browser_Turing/)
 - [:octocat: `Turtle`](https://github.com/seanpm2001/Bliss_Browser_Turtle/)
+- [:octocat: `Typst`](https://github.com/seanpm2001/Bliss_Browser_Typst/)
 - [:octocat: `Uiua`](https://github.com/seanpm2001/Bliss_Browser_Uiua/)
 - [:octocat: `V8 Torque`](https://github.com/seanpm2001/Bliss_Browser_V8-Torque/)
 - [:octocat: `VisionScript`](https://github.com/seanpm2001/Bliss_Browser_VisionScript/)
@@ -410,9 +412,12 @@ Some examples of languages that are not included:
 - AMPL
 - Ant Build System
 - AppleScript
+- Apollo-Guidance-Computer
 - Assembly
+- Asymptote
 - ATS
 - AutoIt
+- Avro IDL
 - B4X
 - Ballerina
 - BASIC
@@ -426,9 +431,13 @@ Some examples of languages that are not included:
 - C
 - C#
 - C++
+- C2Hs-Haskell
+- Cabal-Config
 - Caddyfile
 - Cadence
 - CDL
+- CoNLL-U
+- C-ObjDump
 - COBOL
 - COLLADA
 - Common Lisp
@@ -444,13 +453,17 @@ Some examples of languages that are not included:
 - D
 - Dafny
 - Darcs Patch
+- Debian-Package-Control-File
 - Dhall
 - dircolors
+- DirectX-3D-File
+- D-ObjDump
 - Dockerfile
 - DTrace
 - Dune
 - Dylan
 - E
+- Ecere-Projects
 - Eiffel
 - Elixir
 - Emacs Lisp
@@ -666,12 +679,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `7 (2025, Tuesday, February 4th at 06:16 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `899` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `04,771` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `37,173` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `33,914` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `37,178` <!-- TODO: This line should be updated daily !-->
+- **File version:** `8 (2025, Wednesday, February 5th at 05:56 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `931` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `04,907` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `38,135` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `34,748` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `38,140` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -839,6 +852,25 @@ None
 - [ ] No other changes in version 7
 
 </details> <!-- End of file history entry: V7 !-->
+
+---
+
+## Version 8 (2025, Wednesday, February 26th at 05:56 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 8</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `Excluded languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 8
+- [ ] No other changes in version 8
+
+</details> <!-- End of file history entry: V8 !-->
 
 ***
 
