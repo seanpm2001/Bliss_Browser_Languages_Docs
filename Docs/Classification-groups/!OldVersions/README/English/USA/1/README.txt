@@ -193,6 +193,8 @@ This includes:
 - [:octocat: `SWRL`](https://github.com/seanpm2001/Bliss_Browser_SWRL/)
 - [:octocat: `sXBL`](https://github.com/seanpm2001/Bliss_Browser_sXBL/)
 - [:octocat: `Svelte`](https://github.com/seanpm2001/Bliss_Browser_Svelte/)
+- [:octocat: `Templ`](https://github.com/seanpm2001/Bliss_Browser_Templ/)
+- [:octocat: `Toit`](https://github.com/seanpm2001/Bliss_Browser_Toit/)
 - [:octocat: `TOML`](https://github.com/seanpm2001/Bliss_Browser_TOML/)
 - TSQL (no repository for this language has been created yet)
 - [:octocat: `Twig`](https://github.com/seanpm2001/Bliss_Browser_Twig/)
@@ -200,6 +202,7 @@ This includes:
 - [:octocat: `UrWeb`](https://github.com/seanpm2001/Bliss_Browser_UrWeb/)
 - [:octocat: `vCard`](https://github.com/seanpm2001/Bliss_Browser_vCard/)
 - [:octocat: `Vector Markup Language`](https://github.com/seanpm2001/Bliss_Browser_Vector-Markup-Language/)
+- [:octocat: `Velocity Template Language`](https://github.com/seanpm2001/Bliss_Browser_Velocity-Template-Language/)
 - [:octocat: `VRML`](https://github.com/seanpm2001/Bliss_Browser_VRML/)
 - [:octocat: `Vue.js`](https://github.com/seanpm2001/Bliss_Browser_Vue.js/)
 - [:octocat: `WASP`](https://github.com/seanpm2001/Bliss_Browser_Wasp/)
@@ -359,6 +362,7 @@ This includes:
 - [:octocat: `Sway`](https://github.com/seanpm2001/Bliss_Browser_Sway/)
 - [:octocat: `Talon`](https://github.com/seanpm2001/Bliss_Browser_Talon/)
 - [:octocat: `Tampio`](https://github.com/seanpm2001/Bliss_Browser_Tampio/)
+- [:octocat: `Tea`](https://github.com/seanpm2001/Bliss_Browser_Tea/)
 - TeX (no repository for this language has been created yet)
 - [:octocat: `Thrift`](https://github.com/seanpm2001/Bliss_Browser_Thrift/)
 - [:octocat: `Triton`](https://github.com/seanpm2001/Bliss_Browser_Triton/)
@@ -409,6 +413,7 @@ Some examples of languages that are not included:
 - Alloy
 - Alpine ABuild
 - Altium-Designer
+- Amiga E
 - AMPL
 - Ant Build System
 - AppleScript
@@ -679,12 +684,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `8 (2025, Wednesday, February 5th at 05:56 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `931` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `04,907` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `38,135` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `34,748` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `38,140` <!-- TODO: This line should be updated daily !-->
+- **File version:** `9 (2025, Thursday, February 27th at 05:10 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `956` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,050` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `39,155` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `35,644` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `39,160` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -871,6 +876,26 @@ None
 - [ ] No other changes in version 8
 
 </details> <!-- End of file history entry: V8 !-->
+
+---
+
+## Version 9 (2025, Thursday, February 27th at 05:10 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 9</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `Neo-classical browser languages` section
+- [x] Updated the `Excluded languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- End of file history entry: V9 !-->
 
 ***
 
