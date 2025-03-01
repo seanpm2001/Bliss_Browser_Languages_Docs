@@ -248,8 +248,14 @@ This includes:
 - [:octocat: `Catrobat`](https://github.com/seanpm2001/Bliss_Browser_Catrobat/)
 - [:octocat: `CDS`](https://github.com/seanpm2001/Bliss_Browser_CDS/)
 - [:octocat: `Charcoal`](https://github.com/seanpm2001/Bliss_Browser_Charcoal/)
+- [:octocat: `Charity`](https://github.com/seanpm2001/Bliss_Browser_Charity/)
 - [:octocat: `Checksums`](https://github.com/seanpm2001/Bliss_Browser_Checksums/)
 - [:octocat: `ChucK`](https://github.com/seanpm2001/Bliss_Browser_ChucK/)
+- [:octocat: `CIL`](https://github.com/seanpm2001/Bliss_Browser_CIL/)
+- [:octocat: `Circom`](https://github.com/seanpm2001/Bliss_Browser_Circom/)
+- [:octocat: `Cirru`](https://github.com/seanpm2001/Bliss_Browser_Cirru/)
+- [:octocat: `Clarion`](https://github.com/seanpm2001/Bliss_Browser_Clarion/)
+- [:octocat: `Clarity`](https://github.com/seanpm2001/Bliss_Browser_Clarity/)
 - [:octocat: `Click`](https://github.com/seanpm2001/Bliss_Browser_Click/)
 - [:octocat: `CODEOWNERS`](https://github.com/seanpm2001/Bliss_Browser_CODEOWNERS/)
 - [:octocat: `ColdFusion`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion/)
@@ -267,9 +273,11 @@ This includes:
 - [:octocat: `Edge`](https://github.com/seanpm2001/Bliss_Browser_Edge/)
 - [:octocat: `EdgeQL`](https://github.com/seanpm2001/Bliss_Browser_EdgeQL/)
 - [:octocat: `Elvish`](https://github.com/seanpm2001/Bliss_Browser_Elvish/)
+- [:octocat: `EQ`](https://github.com/seanpm2001/Bliss_Browser_EQ/)
 - [:octocat: `Ezhil`](https://github.com/seanpm2001/Bliss_Browser_Ezhil/)
 - [:octocat: `Faust`](https://github.com/seanpm2001/Bliss_Browser_Faust/)
 - [:octocat: `Fennel`](https://github.com/seanpm2001/Bliss_Browser_Fennel/)
+- [:octocat: `FIRRTL`](https://github.com/seanpm2001/Bliss_Browser_FIRRTL/)
 - [:octocat: `Frege`](https://github.com/seanpm2001/Bliss_Browser_Frege/)
 - [:octocat: `GitAttributes`](https://github.com/seanpm2001/Bliss_Browser_Git-Attributes/)
 - [:octocat: `GolfScript`](https://github.com/seanpm2001/Bliss_Browser_GolfScript/)
@@ -684,12 +692,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `9 (2025, Thursday, February 27th at 05:10 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `956` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,050` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `39,155` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `35,644` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `39,160` <!-- TODO: This line should be updated daily !-->
+- **File version:** `10 (2025, Friday, February 28th at 04:59 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `982` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,209` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `40,326` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `36,699` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `40,331` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -896,6 +904,24 @@ None
 - [ ] No other changes in version 9
 
 </details> <!-- End of file history entry: V9 !-->
+
+---
+
+## Version 10 (2025, Friday, February 28th at 04:59 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 10</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 10
+- [ ] No other changes in version 10
+
+</details> <!-- End of file history entry: V10 !-->
 
 ***
 
