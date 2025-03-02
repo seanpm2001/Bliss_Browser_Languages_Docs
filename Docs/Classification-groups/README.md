@@ -262,6 +262,7 @@ This includes:
 - [:octocat: `ColdFusion CFC`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion-CFC/)
 - [:octocat: `Cue sheet`](https://github.com/seanpm2001/Bliss_Browser_Cue-Sheet/)
 - [:octocat: `Curry`](https://github.com/seanpm2001/Bliss_Browser_Curry/)
+- [:octocat: `Cylc`](https://github.com/seanpm2001/Bliss_Browser_Cylc/)
 - [:octocat: `Cypher`](https://github.com/seanpm2001/Bliss_Browser_Cypher/)
 - [:octocat: `Dart`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
 - Docbook (no repository for this language has been created yet)
@@ -269,7 +270,9 @@ This includes:
 - [:octocat: `DogeScript`](https://github.com/seanpm2001/Bliss_Browser_DogeScript/)
 - [:octocat: `Earthly`](https://github.com/seanpm2001/Bliss_Browser_Earthly/)
 - [:octocat: `EasyBuild`](https://github.com/seanpm2001/Bliss_Browser_Easybuild/)
+- [:octocat: `EC`](https://github.com/seanpm2001/Bliss_Browser_eC/)
 - [:octocat: `ECL`](https://github.com/seanpm2001/Bliss_Browser_ECL/)
+- [:octocat: `EcMarkup`](https://github.com/seanpm2001/Bliss_Browser_EcMarkup/)
 - [:octocat: `Edge`](https://github.com/seanpm2001/Bliss_Browser_Edge/)
 - [:octocat: `EdgeQL`](https://github.com/seanpm2001/Bliss_Browser_EdgeQL/)
 - [:octocat: `Elvish`](https://github.com/seanpm2001/Bliss_Browser_Elvish/)
@@ -277,8 +280,13 @@ This includes:
 - [:octocat: `Ezhil`](https://github.com/seanpm2001/Bliss_Browser_Ezhil/)
 - [:octocat: `Faust`](https://github.com/seanpm2001/Bliss_Browser_Faust/)
 - [:octocat: `Fennel`](https://github.com/seanpm2001/Bliss_Browser_Fennel/)
+- [:octocat: `FIGlet Font`](https://github.com/seanpm2001/Bliss_Browser_FIGlet-Font/)
 - [:octocat: `FIRRTL`](https://github.com/seanpm2001/Bliss_Browser_FIRRTL/)
 - [:octocat: `Frege`](https://github.com/seanpm2001/Bliss_Browser_Frege/)
+- [:octocat: `GAML`](https://github.com/seanpm2001/Bliss_Browser_GAML/)
+- [:octocat: `GAMS`](https://github.com/seanpm2001/Bliss_Browser_GAMS/)
+- [:octocat: `Gemini`](https://github.com/seanpm2001/Bliss_Browser_Gemini/)
+- [:octocat: `Genshi`](https://github.com/seanpm2001/Bliss_Browser_Genshi/)
 - [:octocat: `GitAttributes`](https://github.com/seanpm2001/Bliss_Browser_Git-Attributes/)
 - [:octocat: `GolfScript`](https://github.com/seanpm2001/Bliss_Browser_GolfScript/)
 - [:octocat: `Golo`](https://github.com/seanpm2001/Bliss_Browser_Golo/)
@@ -290,6 +298,7 @@ This includes:
 - [:octocat: `Hoon`](https://github.com/seanpm2001/Bliss_Browser_Hoon/)
 - [:octocat: `Hy`](https://github.com/seanpm2001/Bliss_Browser_Hy/)
 - [:octocat: `HyPhy`](https://github.com/seanpm2001/Bliss_Browser_HyPhy/)
+- [:octocat: `iCalendar`](https://github.com/seanpm2001/Bliss_Browser_iCalendar/)
 - [:octocat: `IGOR Pro`](https://github.com/seanpm2001/Bliss_Browser_IGOR-Pro/)
 - [:octocat: `Imba`](https://github.com/seanpm2001/Bliss_Browser_Imba/)
 - [:octocat: `Ink`](https://github.com/seanpm2001/Bliss_Browser_Ink/)
@@ -359,6 +368,7 @@ This includes:
 - [:octocat: `Roc`](https://github.com/seanpm2001/Bliss_Browser_Roc/)
 - [:octocat: `Roff`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
 - [:octocat: `Sawzall`](https://github.com/seanpm2001/Bliss_Browser_Sawzall/)
+- [:octocat: `Scaml`](https://github.com/seanpm2001/Bliss_Browser_Scaml/)
 - [:octocat: `Shen`](https://github.com/seanpm2001/Bliss_Browser_Shen/)
 - [:octocat: `Simple File Verification`](https://github.com/seanpm2001/Bliss_Browser_Simple-File-Verification/)
 - [:octocat: `Singularity`](https://github.com/seanpm2001/Bliss_Browser_Singularity/)
@@ -692,12 +702,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `10 (2025, Friday, February 28th at 04:59 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `982` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,209` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `40,326` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `36,699` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `40,331` <!-- TODO: This line should be updated daily !-->
+- **File version:** `11 (2025, Saturday, March 1st at 05:16 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,008` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,382` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `41,603` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `37,863` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `41,608` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -921,7 +931,23 @@ None
 - - [x] Added a file history entry for version 10
 - [ ] No other changes in version 10
 
-</details> <!-- End of file history entry: V10 !-->
+---
+
+## Version 11 (2025, Saturday, March 1st at 05:16 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 11</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 11
+- [ ] No other changes in version 11
+
+</details> <!-- End of file history entry: V11 !-->
 
 ***
 
