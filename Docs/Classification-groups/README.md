@@ -275,7 +275,9 @@ This includes:
 - [:octocat: `EcMarkup`](https://github.com/seanpm2001/Bliss_Browser_EcMarkup/)
 - [:octocat: `Edge`](https://github.com/seanpm2001/Bliss_Browser_Edge/)
 - [:octocat: `EdgeQL`](https://github.com/seanpm2001/Bliss_Browser_EdgeQL/)
+- [:octocat: `Edn`](https://github.com/seanpm2001/Bliss_Browser_edn/)
 - [:octocat: `Elvish`](https://github.com/seanpm2001/Bliss_Browser_Elvish/)
+- [:octocat: `Email`](https://github.com/seanpm2001/Bliss_Browser_Email/)
 - [:octocat: `EQ`](https://github.com/seanpm2001/Bliss_Browser_EQ/)
 - [:octocat: `Ezhil`](https://github.com/seanpm2001/Bliss_Browser_Ezhil/)
 - [:octocat: `Faust`](https://github.com/seanpm2001/Bliss_Browser_Faust/)
@@ -309,6 +311,7 @@ This includes:
 - [:octocat: `Jison`](https://github.com/seanpm2001/Bliss_Browser_Jison/)
 - [:octocat: `Jison Lex`](https://github.com/seanpm2001/Bliss_Browser_Jison-Lex/)
 - [:octocat: `Jolie`](https://github.com/seanpm2001/Bliss_Browser_Jolie/)
+- [:octocat: `JSONLD`](https://github.com/seanpm2001/Bliss_Browser_JSONLD/)
 - [:octocat: `JSound`](https://github.com/seanpm2001/Bliss_Browser_JSound/)
 - [:octocat: `Jule`](https://github.com/seanpm2001/Bliss_Browser_Jule/)
 - [:octocat: `Just`](https://github.com/seanpm2001/Bliss_Browser_Just/)
@@ -333,14 +336,19 @@ This includes:
 - [:octocat: `Mermaid`](https://github.com/seanpm2001/Bliss_Browser_Mermaid/)
 - [:octocat: `Metal`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
 - [:octocat: `MGears`](https://github.com/seanpm2001/Bliss_Browser_MGears/)
+- [:octocat: `MiniYAML`](https://github.com/seanpm2001/Bliss_Browser_MiniYAML/)
 - [:octocat: `Mint`](https://github.com/seanpm2001/Bliss_Browser_Mint/)
 - [:octocat: `Mirah`](https://github.com/seanpm2001/Bliss_Browser_Mirah/)
+- [:octocat: `MoonBit`](https://github.com/seanpm2001/Bliss_Browser_MoonBit/)
 - [:octocat: `MQL4`](https://github.com/seanpm2001/Bliss_Browser_MQL4/)
 - [:octocat: `MQL5`](https://github.com/seanpm2001/Bliss_Browser_MQL5/)
+- [:octocat: `NanoRC`](https://github.com/seanpm2001/Bliss_Browser_NanoRC/)
 - [:octocat: `Nearley`](https://github.com/seanpm2001/Bliss_Browser_Nearley/)
+- [:octocat: `NetLinx`](https://github.com/seanpm2001/Bliss_Browser_NetLinx/)
 - [:octocat: `NetREXX`](https://github.com/seanpm2001/Bliss_Browser_NetREXX/)
 - [:octocat: `Nit`](https://github.com/seanpm2001/Bliss_Browser_Nit/)
 - [:octocat: `NuShell`](https://github.com/seanpm2001/Bliss_Browser_NuShell/)
+- [:octocat: `NWScript`](https://github.com/seanpm2001/Bliss_Browser_NWScript/)
 - [:octocat: `ObjectScript`](https://github.com/seanpm2001/Bliss_Browser_ObjectScript/)
 - [:octocat: `Odin`](https://github.com/seanpm2001/Bliss_Browser_Odin/)
 - [:octocat: `OMGROFL`](https://github.com/seanpm2001/Bliss_Browser_OMGROFL/)
@@ -355,6 +363,7 @@ This includes:
 - [:octocat: `Pep8`](https://github.com/seanpm2001/Bliss_Browser_Pep8/)
 - [:octocat: `Polar`](https://github.com/seanpm2001/Bliss_Browser_Polar/)
 - [:octocat: `PowerBuilder`](https://github.com/seanpm2001/Bliss_Browser_PowerBuilder/)
+- [:octocat: `Praat`](https://github.com/seanpm2001/Bliss_Browser_Praat/)
 - [:octocat: `Promela`](https://github.com/seanpm2001/Bliss_Browser_Promela/)
 - [:octocat: `ProtoBuf`](https://github.com/seanpm2001/Bliss_Browser_ProtoBuf/)
 - Puppet (no repository for this language has been created yet)
@@ -399,6 +408,7 @@ This includes:
 - [:octocat: `Wisp`](https://github.com/seanpm2001/Bliss_Browser_Wisp/)
 - [:octocat: `Wollok`](https://github.com/seanpm2001/Bliss_Browser_Wollok/)
 - [:octocat: `XBase++`](https://github.com/seanpm2001/Bliss_Browser_XBasePlusPlus/)
+- [:octocat: `XC`](https://github.com/seanpm2001/Bliss_Browser_XC/)
 - [:octocat: `Xojo`](https://github.com/seanpm2001/Bliss_Browser_Xojo/)
 - [:octocat: `Xonsh`](https://github.com/seanpm2001/Bliss_Browser_Xonsh/)
 - [:octocat: `XS`](https://github.com/seanpm2001/Bliss_Browser_XS/)
@@ -702,12 +712,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `11 (2025, Saturday, March 1st at 05:16 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,008` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,382` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `41,603` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `37,863` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `41,608` <!-- TODO: This line should be updated daily !-->
+- **File version:** `12 (2025, Sunday, March 2nd at 05:14 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,036` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,559` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `42,925` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `39,063` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `41,930` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -948,6 +958,24 @@ None
 - [ ] No other changes in version 11
 
 </details> <!-- End of file history entry: V11 !-->
+
+---
+
+## Version 12 (2025, Sunday, March 2nd at 05:14 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 12</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 12
+- [ ] No other changes in version 12
+
+</details> <!-- End of file history entry: V12 !-->
 
 ***
 
