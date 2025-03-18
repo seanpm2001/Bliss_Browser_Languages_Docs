@@ -500,6 +500,7 @@ Some examples of languages that are not included:
 - Eiffel
 - Elixir
 - Emacs Lisp
+- EO
 - EQ
 - Erlang
 - Euphoria
@@ -530,6 +531,7 @@ Some examples of languages that are not included:
 - Idris
 - Inno Setup
 - Isabelle
+- Ivy
 - J
 - Java
 - jq
@@ -570,6 +572,7 @@ Some examples of languages that are not included:
 - Nemerle
 - NEON
 - nesC
+- Nial
 - Nim
 - Nix
 - NL
@@ -618,19 +621,29 @@ Some examples of languages that are not included:
 - RPGLE
 - RPM Spec
 - Rust
+- SaC
 - Sage
 - Scala
+- Scenic
 - Scheme
 - SciLab
 - Self
+- SELinux-Policy
 - Shell
 - Smali
 - SMT
+- Snakemake
 - Solidity
+- Soong
+- Spline-Font-Database
 - SQF
+- STON
 - Swift
+- Tact
 - Tcl
 - Tea
+- TexInfo
+- TextGrids
 - TXL
 - Uno
 - UnrealScript
@@ -712,12 +725,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `12 (2025, Sunday, March 2nd at 05:14 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,036` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,559` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `42,925` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `39,063` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `41,930` <!-- TODO: This line should be updated daily !-->
+- **File version:** `13 (2025, Tuesday, March 3rd at 03:52 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,067` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,662` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `43,627` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `39,647` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `43,632` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -976,6 +989,24 @@ None
 - [ ] No other changes in version 12
 
 </details> <!-- End of file history entry: V12 !-->
+
+---
+
+## Version 13 (2025, Tuesday, March 18th at 03:52 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 13</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 13
+- [ ] No other changes in version 13
+
+</details> <!-- End of file history entry: V13 !-->
 
 ***
 
