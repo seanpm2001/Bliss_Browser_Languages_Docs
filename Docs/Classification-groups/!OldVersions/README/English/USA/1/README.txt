@@ -257,10 +257,12 @@ This includes:
 - [:octocat: `Clarion`](https://github.com/seanpm2001/Bliss_Browser_Clarion/)
 - [:octocat: `Clarity`](https://github.com/seanpm2001/Bliss_Browser_Clarity/)
 - [:octocat: `Click`](https://github.com/seanpm2001/Bliss_Browser_Click/)
+- [:octocat: `Cloud Firestore Security Rules`](https://github.com/seanpm2001/Bliss_Browser_Cloud-Firestore-Security-Rules/)
 - [:octocat: `CODEOWNERS`](https://github.com/seanpm2001/Bliss_Browser_CODEOWNERS/)
 - [:octocat: `ColdFusion`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion/)
 - [:octocat: `ColdFusion CFC`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion-CFC/)
 - [:octocat: `Cue sheet`](https://github.com/seanpm2001/Bliss_Browser_Cue-Sheet/)
+- [:octocat: `cURL Config`](https://github.com/seanpm2001/Bliss_Browser_cURL-Config/)
 - [:octocat: `Curry`](https://github.com/seanpm2001/Bliss_Browser_Curry/)
 - [:octocat: `Cylc`](https://github.com/seanpm2001/Bliss_Browser_Cylc/)
 - [:octocat: `Cypher`](https://github.com/seanpm2001/Bliss_Browser_Cypher/)
@@ -290,6 +292,8 @@ This includes:
 - [:octocat: `Gemini`](https://github.com/seanpm2001/Bliss_Browser_Gemini/)
 - [:octocat: `Genshi`](https://github.com/seanpm2001/Bliss_Browser_Genshi/)
 - [:octocat: `GitAttributes`](https://github.com/seanpm2001/Bliss_Browser_Git-Attributes/)
+- [:octocat: `Glimmer JS`](https://github.com/seanpm2001/Bliss_Browser_Glimmer-JS/)
+- [:octocat: `Glimmer TS`](https://github.com/seanpm2001/Bliss_Browser_Glimmer-TS/)
 - [:octocat: `GolfScript`](https://github.com/seanpm2001/Bliss_Browser_GolfScript/)
 - [:octocat: `Golo`](https://github.com/seanpm2001/Bliss_Browser_Golo/)
 - [:octocat: `Grace`](https://github.com/seanpm2001/Bliss_Browser_Grace/)
@@ -323,6 +327,7 @@ This includes:
 - [:octocat: `Kusto`](https://github.com/seanpm2001/Bliss_Browser_Kusto/)
 - [:octocat: `Lark`](https://github.com/seanpm2001/Bliss_Browser_Lark/)
 - [:octocat: `Lasso`](https://github.com/seanpm2001/Bliss_Browser_Lasso/)
+- [:octocat: `LDAP Data Interchange Format`](https://github.com/seanpm2001/Bliss_Browser_LDAP-Data-Interchange-Format/)
 - [:octocat: `LigoLANG`](https://github.com/seanpm2001/Bliss_Browser_LigoLANG/)
 - [:octocat: `LOLCODE`](https://github.com/seanpm2001/Bliss_Browser_LOLCODE/)
 - [:octocat: `LoomScript`](https://github.com/seanpm2001/Bliss_Browser_LoomScript/)
@@ -725,12 +730,12 @@ None
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `13 (2025, Tuesday, March 3rd at 03:52 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,067` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `05,662` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `43,627` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `39,647` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `43,632` <!-- TODO: This line should be updated daily !-->
+- **File version:** `14 (2025, Wednesday, March 19th at 03:47 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,091` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `05,820` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `44,762` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `40,658` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `44,767` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1007,6 +1012,25 @@ None
 - [ ] No other changes in version 13
 
 </details> <!-- End of file history entry: V13 !-->
+
+---
+
+## Version 14 (2025, Wednesday, March 19th at 03:47 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 14</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Neo-classical browser languages` section
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 14
+- [ ] No other changes in version 14
+
+</details> <!-- End of file history entry: V14 !-->
 
 ***
 
