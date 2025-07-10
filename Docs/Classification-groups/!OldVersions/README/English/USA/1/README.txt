@@ -57,8 +57,14 @@ This includes:
 - [:octocat: `CSS`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 - [:octocat: `ECMAScript`](https://github.com/seanpm2001/Bliss_Browser_ECMAScript/)
 - [:octocat: `HTML`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
+- [:octocat: `HTML+Razor`](https://github.com/seanpm2001/Bliss-Browser_HTML+Razor/)
+- [:octocat: `HTML+PHP`](https://github.com/seanpm2001/Bliss-Browser_HTML+PHP/)
+- [:octocat: `HTML+ERB`](https://github.com/seanpm2001/Bliss-Browser_HTML+ERB/)
+- [:octocat: `HTML+EEX`](https://github.com/seanpm2001/Bliss-Browser_HTML+EEX/)
+- [:octocat: `HTML+ECR`](https://github.com/seanpm2001/Bliss-Browser_HTML+ECR/)
 - HTTP (conflict with existing repository)
 - [:octocat: `JavaScript`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
+- [:octocat: `JavaScript+ERB`](https://github.com/seanpm2001/Bliss-Browser_JavaScript+ERB/)
 - [:octocat: `JSSS`](https://github.com/seanpm2001/Bliss_Browser_JSSS/)
 - SVG (no repository for this language has been created yet)
 - [:octocat: `Text (Plain text)`](https://github.com/seanpm2001/Bliss_Browser_Text/)
@@ -104,10 +110,12 @@ This includes:
 - [:octocat: `CWEB`](https://github.com/seanpm2001/Bliss_Browser_CWeb/)
 - [:octocat: `D2`](https://github.com/seanpm2001/Bliss_Browser_D2/)
 - [:octocat: `DAML (DARPA Agent Model Language")`](https://github.com/seanpm2001/Bliss_Browser_DAML/)
+- [:octocat: `Daslang`](https://github.com/seanpm2001/Bliss-Browser_Daslang/)
 - [:octocat: `DenizenScript`](https://github.com/seanpm2001/Bliss_Browser_DenizenScript/)
 - [:octocat: `DNS Zone`](https://github.com/seanpm2001/Bliss_Browser_DNS-Zone/)
 - [:octocat: `DocBook`](https://github.com/seanpm2001/Bliss_Browser_DocBook/)
 - [:octocat: `DotEnv`](https://github.com/seanpm2001/Bliss_Browser_DotEnv/)
+- [:octocat: `Edje Data Collection`](https://github.com/seanpm2001/Bliss-Browser_Edje Data Collection/)
 - [:octocat: `EJS`](https://github.com/seanpm2001/Bliss_Browser_EJS/)
 - [:octocat: `EJSS`](https://github.com/seanpm2001/Bliss_Browser_EJSS/)
 - [:octocat: `Elm`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
@@ -128,10 +136,12 @@ This includes:
 - [:octocat: `HAML`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
 - [:octocat: `Handlebars`](https://github.com/seanpm2001/Bliss_Browser_Handlebars/)
 - [:octocat: `Harbour`](https://github.com/seanpm2001/Bliss_Browser_Harbour/)
+- [:octocat: `HIP`](https://github.com/seanpm2001/Bliss-Browser_HIP/)
 - [:octocat: `HiveQL`](https://github.com/seanpm2001/Bliss_Browser_HiveQL/)
 - [:octocat: `Hosts File`](https://github.com/seanpm2001/Bliss_Browser_Hosts-file/)
 - [:octocat: `HXML`](https://github.com/seanpm2001/Bliss_Browser_HXML/)
 - [:octocat: `INI`](https://github.com/seanpm2001/Bliss_Browser_INI/)
+- [:octocat: `IRC Log`](https://github.com/seanpm2001/Bliss-Browser_IRC Log/)
 - [:octocat: `JavaScript++`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
 - [:octocat: `Jinja`](https://github.com/seanpm2001/Bliss_Browser_Jinja/)
 - [:octocat: `JScript`](https://github.com/seanpm2001/Bliss_Browser_JScript/)
@@ -146,12 +156,15 @@ This includes:
 - [:octocat: `KDL`](https://github.com/seanpm2001/Bliss_Browser_KDL/)
 - [:octocat: `Keyhole Markup Language (KML)`](https://github.com/seanpm2001/Bliss_Browser_Keyhole-Markup-Language-KML/)
 - [:octocat: `LegalXML`](https://github.com/seanpm2001/Bliss_Browser_LegalXML/)
+- [:octocat: `Leo`](https://github.com/seanpm2001/Bliss-Browser_Leo/)
 - [:octocat: `Less`](https://github.com/seanpm2001/Bliss_Browser_Less/)
 - [:octocat: `Lezer`](https://github.com/seanpm2001/Bliss_Browser_Lezer/)
 - [:octocat: `Liquid`](https://github.com/seanpm2001/Bliss_Browser_Liquid/)
+- [:octocat: `Literate CoffeeScript`](https://github.com/seanpm2001/Bliss-Browser_Literate CoffeeScript/
 - [:octocat: `LiveCode`](https://github.com/seanpm2001/Bliss_Browser_LiveCode/)
 - [:octocat: `LiveScript`](https://github.com/seanpm2001/Bliss_Browser_LiveScript/)
 - [:octocat: `Markdown`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
+- [:octocat: `Maven POM`](https://github.com/seanpm2001/Bliss-Browser_Maven POM/
 - [:octocat: `MDX`](https://github.com/seanpm2001/Bliss_Browser_MDX/)
 - [:octocat: `MediaWiki (WikiText)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - [:octocat: `MFM (MissKey)`](https://github.com/seanpm2001/Bliss_Browser_MFM-MissKey/)
@@ -195,6 +208,7 @@ This includes:
 - [:octocat: `Slash`](https://github.com/seanpm2001/Bliss_Browser_Slash/)
 - [:octocat: `SGML`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
 - [:octocat: `Smarty`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
+- [:octocat: `SPARQL`](https://github.com/seanpm2001/Bliss-Browser_SPARQL/)
 - [:octocat: `SQL`](https://github.com/seanpm2001/Bliss_Browser_SQL/)
 - [:octocat: `SQWRL`](https://github.com/seanpm2001/Bliss_Browser_SQWRL/)
 - [:octocat: `StrictYAML`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
@@ -210,6 +224,7 @@ This includes:
 - [:octocat: `TSPLIB Data`](https://github.com/seanpm2001/Bliss_Browser_TSPLIB-data/)
 - [:octocat: `TSQL`](https://github.com/seanpm2001/Bliss_Browser_TSQL/)
 - [:octocat: `Twig`](https://github.com/seanpm2001/Bliss_Browser_Twig/)
+- [:octocat: `Type Language`](https://github.com/seanpm2001/Bliss-Browser_Type Language/)
 - [:octocat: `TypeScript`](https://github.com/seanpm2001/Bliss_Browser_TypeScript/)
 - [:octocat: `UrWeb`](https://github.com/seanpm2001/Bliss_Browser_UrWeb/)
 - [:octocat: `vCard`](https://github.com/seanpm2001/Bliss_Browser_vCard/)
@@ -292,6 +307,7 @@ This includes:
 - [:octocat: `EdgeQL`](https://github.com/seanpm2001/Bliss_Browser_EdgeQL/)
 - [:octocat: `Edn`](https://github.com/seanpm2001/Bliss_Browser_edn/)
 - [:octocat: `Elvish`](https://github.com/seanpm2001/Bliss_Browser_Elvish/)
+- [:octocat: `Elvish Transcript`](https://github.com/seanpm2001/Bliss-Browser_Elvish Transcript/)
 - [:octocat: `Email`](https://github.com/seanpm2001/Bliss_Browser_Email/)
 - [:octocat: `EQ`](https://github.com/seanpm2001/Bliss_Browser_EQ/)
 - [:octocat: `Ezhil`](https://github.com/seanpm2001/Bliss_Browser_Ezhil/)
@@ -303,6 +319,8 @@ This includes:
 - [:octocat: `GAML`](https://github.com/seanpm2001/Bliss_Browser_GAML/)
 - [:octocat: `GAMS`](https://github.com/seanpm2001/Bliss_Browser_GAMS/)
 - [:octocat: `Gemini`](https://github.com/seanpm2001/Bliss_Browser_Gemini/)
+- [:octocat: `Genero Forms`](https://github.com/seanpm2001/Bliss-Browser_Genero Forms/)
+- [:octocat: `Genero Per`](https://github.com/seanpm2001/Bliss-Browser_Genero Per/)
 - [:octocat: `Genshi`](https://github.com/seanpm2001/Bliss_Browser_Genshi/)
 - [:octocat: `GitAttributes`](https://github.com/seanpm2001/Bliss_Browser_Git-Attributes/)
 - [:octocat: `Glimmer JS`](https://github.com/seanpm2001/Bliss_Browser_Glimmer-JS/)
@@ -327,6 +345,7 @@ This includes:
 - [:octocat: `Janet`](https://github.com/seanpm2001/Bliss_Browser_Janet/)
 - [:octocat: `JCL`](https://github.com/seanpm2001/Bliss_Browser_JCL/)
 - [:octocat: `Jelly`](https://github.com/seanpm2001/Bliss_Browser_Jelly/)
+- [:octocat: `Jest Snapshot`](https://github.com/seanpm2001/Bliss-Browser_Jest Snapshot/)
 - [:octocat: `Jison`](https://github.com/seanpm2001/Bliss_Browser_Jison/)
 - [:octocat: `Jison Lex`](https://github.com/seanpm2001/Bliss_Browser_Jison-Lex/)
 - [:octocat: `Jolie`](https://github.com/seanpm2001/Bliss_Browser_Jolie/)
@@ -407,6 +426,7 @@ This includes:
 - [:octocat: `Rez`](https://github.com/seanpm2001/Bliss_Browser_Rez/)
 - [:octocat: `Roc`](https://github.com/seanpm2001/Bliss_Browser_Roc/)
 - [:octocat: `Roff`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
+- [:octocat: `Sail`](https://github.com/seanpm2001/Bliss-Browser_Sail/)
 - [:octocat: `Sawzall`](https://github.com/seanpm2001/Bliss_Browser_Sawzall/)
 - [:octocat: `Scaml`](https://github.com/seanpm2001/Bliss_Browser_Scaml/)
 - [:octocat: `ShellCheck Config`](https://github.com/seanpm2001/Bliss_Browser_ShellCheck-Config/)
@@ -433,6 +453,7 @@ This includes:
 - [:octocat: `Typst`](https://github.com/seanpm2001/Bliss_Browser_Typst/)
 - [:octocat: `Uiua`](https://github.com/seanpm2001/Bliss_Browser_Uiua/)
 - [:octocat: `V8 Torque`](https://github.com/seanpm2001/Bliss_Browser_V8-Torque/)
+- [:octocat: `Vento`](https://github.com/seanpm2001/Bliss-Browser_Vento/)
 - [:octocat: `VisionScript`](https://github.com/seanpm2001/Bliss_Browser_VisionScript/)
 - [:octocat: `Visual Basic`](https://github.com/seanpm2001/Bliss_Browser_Visual-Basic/)
 - [:octocat: `Visual Basic 6.0`](https://github.com/seanpm2001/Bliss_Browser_Visual-Basic-6-0/)
@@ -481,6 +502,7 @@ Some examples of languages that are not included:
 - Amiga E
 - AMPL
 - Ant Build System
+- Answer-Set-Programming
 - AppleScript
 - Apollo-Guidance-Computer
 - Assembly
@@ -498,6 +520,7 @@ Some examples of languages that are not included:
 - Boo
 - Boogie
 - Brainfuck
+- BuildStream
 - C
 - C#
 - C++
@@ -535,6 +558,7 @@ Some examples of languages that are not included:
 - Dylan
 - E
 - Ecere-Projects
+- ECLiPSe
 - Eiffel
 - Elixir
 - Emacs Lisp
@@ -549,6 +573,7 @@ Some examples of languages that are not included:
 - Formatted
 - Forth
 - Fortran
+- Fortran-Free-Form
 - FreeBASIC
 - Futhark
 - Game Maker Language
@@ -556,13 +581,22 @@ Some examples of languages that are not included:
 - GDScript
 - Gemfile.lock
 - Genie
+- Gentoo-Eclass
+- Gentoo-Ebuild
 - GetText Catalog
+- Git-Revision-List
 - Gleam
 - Glyph
 - Go!
+- GoDot-resource
 - Google Carbon
 - Google Go
+- Google Go-Checksums
+- Google Go-Module
+- Google Go-Workspace
 - Gosu
+- Gradle-Kotlin-DSL
+- Graph-Modeling-Language
 - Groovy
 - GSC
 - Hare
@@ -573,9 +607,13 @@ Some examples of languages that are not included:
 - Ignore-List
 - Inno Setup
 - Isabelle
+- Isabelle-ROOT
 - Ivy
 - J
+- JAR-Manifest
 - Java
+- Java-Properties
+- Java-Template-Engine
 - jq
 - Julia
 - Kotlin
@@ -585,9 +623,12 @@ Some examples of languages that are not included:
 - LFE
 - Limbo
 - Lisp
+- Literate-Agda
+- Literate-Haskell
 - LLVM
 - Lua
 - M
+- M3U
 - Makefile
 - Mathematica
 - MATLAB
@@ -598,7 +639,10 @@ Some examples of languages that are not included:
 - mdsvex
 - Mercury
 - Meson
+- Microsoft-Developer-Studio-Project
+- Microsoft-Visual-Studio-Solution
 - MiniD
+- MIT-TiML
 - Modelica
 - Modula-2
 - Modula-3
@@ -606,6 +650,7 @@ Some examples of languages that are not included:
 - MooCode
 - MoonScript
 - Motoko
+- Motorola-68K-Assembly
 - MUF
 - mupad
 - Muse
@@ -709,6 +754,7 @@ Some examples of languages that are not included:
 - X10
 - XBase
 - X-BitMap
+- X-Font-Directory-Index
 - XMake
 - XQuery
 - YARA
@@ -872,12 +918,12 @@ DRAFT 2025.05.22
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `15 (2025, Thursday, May 22nd at 05:29 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,257` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `06,703` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `51,566` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `47,089` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `51,571` <!-- TODO: This line should be updated daily !-->
+- **File version:** `16 (2025, Wednesday, July 9th at 06:57 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,329` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,130` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `54,751` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `49,983` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `54,756` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1197,6 +1243,32 @@ DRAFT 2025.05.22
 - [ ] No other changes in version 15
 
 </details> <!-- End of file history entry: V15 !-->
+
+---
+
+## Version 16 (2025, Wednesday, July 9th at 06:57 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 16</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _Bringing the file back up to date with new data._
+
+> **Note:** MAY BE MISSING DATA BETWEEN 2025, MAY 23RD AND 2025, JULY 8TH
+
+> Changes:
+
+- [x] Updated the `Neo-classical browser languages` section
+- [x] Updated the `Post-classical browser languages` section
+- [x] Added the `Bliss Browser and online game languages` section
+- [x] Added the `Website development using config languages` section
+- [x] Added the `Notes` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 16
+- [ ] No other changes in version 16
+
+</details> <!-- End of file history entry: V16 !-->
 
 ***
 
