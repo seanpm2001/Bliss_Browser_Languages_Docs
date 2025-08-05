@@ -918,12 +918,12 @@ DRAFT 2025.05.22
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `16 (2025, Wednesday, July 9th at 06:57 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,329` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,130` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `54,751` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `49,983` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `54,756` <!-- TODO: This line should be updated daily !-->
+- **File version:** `17 (2025, Monday, August 4th at 07:30 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,398` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,632` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `58,180` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `53,213` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `58,185` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1270,6 +1270,26 @@ DRAFT 2025.05.22
 
 </details> <!-- End of file history entry: V16 !-->
 
+---
+
+## Version 17 (2025, Monday, August 4th at 07:30 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 17</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _Updating the file. There was a lot of missing data that I found today, but I don't have the time right now to go and add it all in. I alphabetized the data, and added it in, but did not sort and format it across the 3 categories._
+
+> Changes:
+
+- [x] Added notes to the bottom of the file
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 17
+- [ ] No other changes in version 17
+
+</details> <!-- End of file history entry: V17 !-->
+
 ***
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
@@ -1326,3 +1346,52 @@ _End of article._
 </details> <!-- End of article !-->
 
 ***
+
+sort another time (alphabetized for you)
+
+```
+https://github.com/seanpm2001/Bliss-Browser_Aiken
+https://github.com/seanpm2001/Bliss-Browser_BiBTeX-Style
+https://github.com/seanpm2001/Bliss-Browser_Genero-Forms
+https://github.com/seanpm2001/Bliss-Browser_GMIC
+https://github.com/seanpm2001/Bliss-Browser_HTML-ERB
+https://github.com/seanpm2001/Bliss-Browser_HTML-PHP
+https://github.com/seanpm2001/Bliss-Browser_HTML-Razor
+https://github.com/seanpm2001/Bliss-Browser_IRC-Log
+https://github.com/seanpm2001/Bliss-Browser_JavaScript-ERB
+https://github.com/seanpm2001/Bliss-Browser_Literate-CoffeeScript
+https://github.com/seanpm2001/Bliss-Browser_Maven-POM
+https://github.com/seanpm2001/Bliss-Browser_OASv2-yaml
+https://github.com/seanpm2001/Bliss-Browser_OASv2-json
+https://github.com/seanpm2001/Bliss-Browser_OASv3-yaml
+https://github.com/seanpm2001/Bliss-Browser_OASv3-json
+https://github.com/seanpm2001/Bliss-Browser_Object-Data-Instance-Notation
+https://github.com/seanpm2001/Bliss-Browser_OMNeTPP-NED
+https://github.com/seanpm2001/Bliss-Browser_OMNeTPP-MSG
+https://github.com/seanpm2001/Bliss-Browser_OpenAPI-Specification-V2
+https://github.com/seanpm2001/Bliss-Browser_OpenAPI-Specification-V3
+https://github.com/seanpm2001/Bliss-Browser_OpenRC-RunScript
+https://github.com/seanpm2001/Bliss-Browser_OpenStep-Property-List
+https://github.com/seanpm2001/Bliss-Browser_OpenType-Feature-File
+https://github.com/seanpm2001/Bliss-Browser_PIP-Requirements
+https://github.com/seanpm2001/Bliss-Browser_Propeller-Spin
+https://github.com/seanpm2001/Bliss-Browser_Protocol-Buffer-Text-Format
+https://github.com/seanpm2001/Bliss-Browser_Python-Console
+https://github.com/seanpm2001/Bliss-Browser_Raw-Token-Data
+https://github.com/seanpm2001/Bliss-Browser_ReasonLIGO
+https://github.com/seanpm2001/Bliss-Browser_Readline-Config
+https://github.com/seanpm2001/Bliss-Browser_Record-Jar
+https://github.com/seanpm2001/Bliss-Browser_Rocq-Prover
+https://github.com/seanpm2001/Bliss-Browser_Roff-Manpage
+https://github.com/seanpm2001/Bliss-Browser_SSH-Config
+https://github.com/seanpm2001/Bliss-Browser_Terraform-Template
+https://github.com/seanpm2001/Bliss_Browser_TextMate-Properties
+https://github.com/seanpm2001/Bliss-Browser_TI-Program
+https://github.com/seanpm2001/Bliss-Browser_TL-Verilog
+https://github.com/seanpm2001/Bliss-Browser_Tor-Config
+https://github.com/seanpm2001/Bliss-Browser_Type-Language
+https://github.com/seanpm2001/Bliss-Browser_TypeSpec
+https://github.com/seanpm2001/Bliss-Browser_Untyped-Plutus-Core
+https://github.com/seanpm2001/Bliss-Browser_WebAssembly-Interface-Type
+https://github.com/seanpm2001/Bliss-Browser_Zmodel
+```
