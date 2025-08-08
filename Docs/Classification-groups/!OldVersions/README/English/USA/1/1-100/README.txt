@@ -454,6 +454,7 @@ This includes:
 - [:octocat: `Rocq Prover`](https://github.com/seanpm2001/Bliss-Browser_Rocq-Prover/)
 - [:octocat: `Roff`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
 - [:octocat: `Roff Manpage`](https://github.com/seanpm2001/Bliss-Browser_Roff-Manpage/)
+- [:octocat: `RON`](https://github.com/seanpm2001/Bliss-Browser_RON/)
 - [:octocat: `Sail`](https://github.com/seanpm2001/Bliss-Browser_Sail/)
 - [:octocat: `Sawzall`](https://github.com/seanpm2001/Bliss_Browser_Sawzall/)
 - [:octocat: `Scaml`](https://github.com/seanpm2001/Bliss_Browser_Scaml/)
@@ -953,12 +954,12 @@ DRAFT 2025.05.22
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `18 (2025, Tuesday, August 5th at 08:34 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,407` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `07,797` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `59,643` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `54,448` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `59,648` <!-- TODO: This line should be updated daily !-->
+- **File version:** `19 (2025, Thursday, August 7th at 09:10 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,429` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `07,913` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `60,397` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `55,084` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `60,402` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1347,6 +1348,27 @@ DRAFT 2025.05.22
 - [ ] No other changes in version 18
 
 </details> <!-- End of file history entry: V18 !-->
+
+---
+
+## Version 19 (2025, Thursday, August 7th at 09:10 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 19</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _Updating the file to add 1 new entry from today._
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Removed notes to the bottom of the file
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 19
+- [ ] No other changes in version 19
+
+</details> <!-- End of file history entry: V19 !-->
 
 ***
 
