@@ -360,7 +360,7 @@ This includes:
 - [:octocat: `Janet`](https://github.com/seanpm2001/Bliss_Browser_Janet/)
 - [:octocat: `JCL`](https://github.com/seanpm2001/Bliss_Browser_JCL/)
 - [:octocat: `Jelly`](https://github.com/seanpm2001/Bliss_Browser_Jelly/)
-- [:octocat: `Jest Snapshot`](https://github.com/seanpm2001/Bliss-Browser_Jest Snapshot/)
+- [:octocat: `Jest Snapshot`](https://github.com/seanpm2001/Bliss-Browser_Jest-Snapshot/)
 - [:octocat: `Jison`](https://github.com/seanpm2001/Bliss_Browser_Jison/)
 - [:octocat: `Jison Lex`](https://github.com/seanpm2001/Bliss_Browser_Jison-Lex/)
 - [:octocat: `Jolie`](https://github.com/seanpm2001/Bliss_Browser_Jolie/)
@@ -956,12 +956,12 @@ DRAFT 2025.05.22
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `20 (2025, Friday, August 8th at 08:49 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,452` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `08,049` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `61,305` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `55,862` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `61,310` <!-- TODO: This line should be updated daily !-->
+- **File version:** `21 (2025, Monday, August 11th at 09:18 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,470` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `08,144` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `61,935` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `56,393` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `61,940` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1364,7 +1364,6 @@ DRAFT 2025.05.22
 > Changes:
 
 - [x] Updated the `Post-classical browser languages` section
-- [x] Removed notes to the bottom of the file
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added a file history entry for version 19
@@ -1380,18 +1379,37 @@ DRAFT 2025.05.22
 
 > This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note:** _Updating the file to add 6 new entries from today, of which some already were added beofrehand._
+> **Note:** _Updating the file to add 6 new entries from today, of which some already were added beforehand._
 
 > Changes:
 
 - [x] Updated the `Post-classical browser languages` section
-- [x] Removed notes to the bottom of the file
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
 - - [x] Added a file history entry for version 20
 - [ ] No other changes in version 20
 
 </details> <!-- End of file history entry: V20 !-->
+
+---
+
+## Version 21 (2025, Monday, August 11th at 09:18 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 21</b></p></summary>
+
+> This version was created by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _I was going to update the file with 4 new languages, but they were already added, although 1 link (Jest Snapshot) needed to be fixed)_
+
+> Changes:
+
+- [x] Updated the `Post-classical browser languages` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added a file history entry for version 21
+- [ ] No other changes in version 21
+
+</details> <!-- End of file history entry: V21 !-->
 
 ***
 
